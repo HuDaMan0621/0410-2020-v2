@@ -62,4 +62,4 @@ python3 app.py
 - Add an 'stone' the screen for saving the state of the game, including the score, number of lives, magical abilities, and position of each character on the screen.
     - It should only appear temporarily.
     - If the player loses all their lives, ask if they want to load their saved game.
-        - Optionally, delete the saved game info so the player can only use a saved game once.
+        - Optionally, delete the saved game info so the player can only use a saved game once.# 0410-2020-v2
